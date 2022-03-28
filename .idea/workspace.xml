@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d97fab4-6506-4277-837f-4fdc33659d12" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/HOCs/WithOkButton.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Articles/ArticleCreateNewComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Articles/ArticleFeedItemComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Articles/ArticleOverviewClassComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Articles/ArticleOverviewFuncComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CounterComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FeedComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NavBarComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Notifications/NotificationComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Notifications/NotificationRenderPropsComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/authentification/LoginComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/authentification/RegistrationComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/ArticleOverviewContainer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/FeedContainer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ducks/app/actionTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ducks/app/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ducks/app/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ducks/app/sagas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ducks/app/selectors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ducks/article/actionTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ducks/article/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ducks/article/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ducks/article/selectors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/AuthLayoutComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/CommonLayoutComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/rootReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/rootSaga.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <list id="845ebcd0-7305-4b14-812b-41376e0bff1d" name="Changes by vasilii" comment="" />
+    <list id="4bb1aa75-a19c-430f-85e9-6408a75580e6" name="Changes by vperevozchikov" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26hPOU8vhWD7bonJGey7IVM6IC6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/authentification" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\noveo\my-react-app\src\components\authentification" />
+      <recent name="F:\noveo\my-react-app\src\ducks\app" />
+      <recent name="F:\noveo\my-react-app\src" />
+      <recent name="F:\noveo\my-react-app\src\store" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d97fab4-6506-4277-837f-4fdc33659d12" name="Changes" comment="" />
+      <created>1647872816741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647872816741</updated>
+      <workItem from="1647872818890" duration="1560000" />
+      <workItem from="1647950836106" duration="9407000" />
+      <workItem from="1648033436479" duration="13818000" />
+      <workItem from="1648123042779" duration="5616000" />
+      <workItem from="1648188092380" duration="1200000" />
+      <workItem from="1648209242230" duration="15103000" />
+      <workItem from="1648276182235" duration="15272000" />
+      <workItem from="1648360644892" duration="8333000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
