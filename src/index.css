@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+mynav {
+  background-image: url("https://placekitten.com/1920/1920");
+}
+
+/*start
+button {
+  border: 3px solid #3a7999;
+}
+
+button:hover {
+  border: 3px dotted #3a7999;
+  color: #3a7999;
+  background: rgba(0,0,0,0);
+}
+finish
+٩(｡•́‿•̀｡)۶
+o(≧▽≦)o
+(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+(´･ᴗ･ )
+( ‾́ ◡ ‾́ )
+(◕‿◕)
+(´• ω •)
+(＠＾◡＾)
+(((o(*°▽°*)o)))
+(─‿‿─)
+(o´▽o)
+*/
+
